@@ -15,4 +15,4 @@ Los datos del alumno que deberá ingresar el usuario son:
 Posteriormente el programa guardará los datos recopilados en un fichero CSV usando la librería pandas.
 
 
-2.- Un programa que lea los datos de los alumnos en el archivo CSV y los imprima en forma de tabla.
+2.- Programa que lea los datos de los alumnos en el archivo CSV y los imprima en forma de tabla.
